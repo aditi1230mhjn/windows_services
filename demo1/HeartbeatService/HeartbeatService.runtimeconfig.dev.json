@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\maditi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\maditi\\.nuget\\packages"
+    ]
+  }
+}
